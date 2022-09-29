@@ -1,0 +1,23 @@
+@media screen and (max-width:1100px){
+    .desktop-header-section{
+        display: none;
+    }
+    .mobile-header-section{
+        display: flex;
+    }
+    .info-content{
+        width:100%;
+    }
+    
+    .aboutus-content{
+        width: 100%;
+    }
+    footer{
+        flex-direction: column;
+        text-align: center;
+    }
+    .icons-container{
+        margin: 10px 0;
+    }
+
+}
