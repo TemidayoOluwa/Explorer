@@ -60,6 +60,7 @@ nav{
    
 }
 .mobile-header-section{
+    position: fixed;
     display: none;
     justify-content: space-between;
     padding: 20px;
@@ -118,7 +119,7 @@ nav{
     height: 60%;
     background: var(--main-color);
     position: fixed;
-    top: 20%;
+    top: 15%;
     right: 0;
     transform: translateX(102%);
     transition: all 0.4s ease;
