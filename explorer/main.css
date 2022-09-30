@@ -157,7 +157,7 @@ nav{
 }
 .info-content{
     width: 38%;
-    padding: 10px 10px;
+    padding: 10px 18px;
 }
 .info h3{
     padding: 20px;
@@ -174,7 +174,7 @@ nav{
     font-size: 17px;
     border: none;
     border-radius: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 .icons{
     padding-left: 10px;
