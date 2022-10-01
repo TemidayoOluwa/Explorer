@@ -118,7 +118,7 @@ nav{
     height: 60%;
     background: var(--main-color);
     position: fixed;
-    top: 14%;
+    top: 8%;
     right: 0;
     transform: translateX(102%);
     transition: all 0.4s ease;
