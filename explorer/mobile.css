@@ -8,7 +8,9 @@
     .info-content{
         width:100%;
     }
-    
+    .aboutus-card{
+         flex-wrap: wrap;
+    }
     .aboutus-content{
         width: 100%;
     }
